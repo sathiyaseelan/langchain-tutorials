@@ -1,6 +1,5 @@
 # Learn LangChain
 
-
 Overview, Tutorial, and Examples of [LangChain](https://langchain.readthedocs.io/en/latest/)
 
 See the accompanying tutorials on [YouTube](https://www.youtube.com/channel/UCyR2Ct3pDOeZSRyZH5hPO-Q)
